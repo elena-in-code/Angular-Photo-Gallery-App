@@ -1,0 +1,21 @@
+.img-container {
+	margin: 45px auto 15px auto;
+	box-shadow: #555 1px 2px 8px 1px;
+	min-height: 425px;
+	width: 640px;
+	background-position: center;
+	background-repeat: no-repeat;
+	align-content: center;
+}
+#caption {
+	font-size: 1.3em;
+	font-family: "Open Sans", sans-serif;
+	padding: 18px;
+	color: #222;
+	border: 2px solid #bbb;
+	width: 900px;
+}
+.caption-row {
+	padding: 24px;
+	text-align: center;
+}
